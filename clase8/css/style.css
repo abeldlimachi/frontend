@@ -1,0 +1,43 @@
+body{
+    background-color: #fff;
+}
+.title{
+    margin-top: 70px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.habblandas{
+    display: flex ;
+    justify-content:center ;
+}
+.habblandas{
+    display: flex ;
+    justify-content:center ;
+    height: 30px;
+    
+}
+
+.dpersonales{
+    display: flex;
+    justify-content:center;
+}
+p{
+    padding: 3px;
+}
+.expprof{
+margin: 3%;
+}
+.redes{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contacto{
+    margin-right: 1%;
+}
+.fa-brands{
+    color: black;
+}
